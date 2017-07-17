@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NavigationKeyControl</string>
+    <string name="description">用于监控返回键和最近任务键，实现两者功能交换。</string>
 </resources>
